@@ -1,0 +1,22 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Simple to-do app using node.js and express without a database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wneek018/todo-app.git"
+  },
+  "author": "wwiggie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wneek018/todo-app/issues"
+  },
+  "homepage": "https://github.com/wneek018/todo-app#readme",
+  "dependencies": {
+    "ejs": "^2.6.2"
+  }
+}
